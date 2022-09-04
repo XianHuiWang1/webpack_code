@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=function e(n){return 0===n||1===n?1:n*e(n-1)}(5);document.getElementById("a").innerHTML=e})();
